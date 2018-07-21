@@ -1,0 +1,54 @@
+Text Summarization Papers
+
+   [ A Review on Automatic Text Summarization Approaches, 2016.]('http://thescipub.com/PDF/jcssp.2016.178.190.pdf')
+   [ A Review Paper on Text Summarization, 2016.]('https://www.ijarcce.com/upload/2016/march-16/IJARCCE%2040.pdf')
+    [Text Summarization Techniques: A Brief Survey, 2017.]('https://arxiv.org/abs/1707.02268')
+
+Deep Learning Text Summarization Papers
+
+    [A Neural Attention Model for Abstractive Sentence Summarization, 2015]('https://arxiv.org/pdf/1509.00685.pdf')
+    ]Abstractive Text Summarization Using Sequence-to-Sequence RNNs and Beyond, 2016.]('https://arxiv.org/abs/1602.06023')
+    [Get To The Point: Summarization with Pointer-Generator Networks, 2017.]('https://arxiv.org/abs/1704.04368')
+
+Books
+
+   [ Advances in Automatic Text Summarization, 1999.]('https://www.amazon.com/Advances-Automatic-Text-Summarization-Press/dp/0262133598/ref=as_li_ss_tl?ie=UTF8&qid=1503872626&sr=8-1&keywords=text+summarization&linkCode=sl1&tag=inspiredalgor-20&linkId=75d9f8d62261d17bdddf5c5c0f43881a')
+    [Automatic Text Summarization, 2014.]('https://www.amazon.com/Automatic-Text-Summarization-Juan-Manuel-Torres-Moreno/dp/1848216688/ref=as_li_ss_tl?ie=UTF8&qid=1503872626&sr=8-2&keywords=text+summarization&linkCode=sl1&tag=inspiredalgor-20&linkId=65716344a09fc1ea8c385057b9ff5142')
+    [Innovative Document Summarization Techniques: Revolutionizing Knowledge Understanding, 2014.]('https://www.amazon.com/Innovative-Document-Summarization-Techniques-Revolutionizing/dp/1466650192/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=1466650192&pd_rd_r=JXHDB7AJ3G4F0NWGVY9W&pd_rd_w=zaXbA&pd_rd_wg=QJ2BD&psc=1&refRID=JXHDB7AJ3G4F0NWGVY9W&linkCode=sl1&tag=inspiredalgor-20&linkId=483b0c6a973d5b43d4eeef863525a132')
+
+Articles
+
+   [ Automatic summarization]('https://en.wikipedia.org/wiki/Automatic_summarization')
+   [ Text summarization with TensorFlow, 2016('https://ai.googleblog.com/2016/08/text-summarization-with-tensorflow.html')
+   [ Has Deep Learning been applied to automatic text summarization (successfully)?]('https://www.quora.com/Has-Deep-Learning-been-applied-to-automatic-text-summarization-successfully')
+   [ Taming Recurrent Neural Networks for Better Summarization, 2017.]('http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html')
+   [ Deep Learning for Text Summarization]('http://deeplearningkit.org/2016/04/23/deep-learning-for-text-summarization/')
+
+
+
+
+
+
+Other Links:
+
+1.URL text summarizer using Web Crawling and NLP (Python)
+
+http://www.assafelovic.com/blog/2016/10/26/url-text-summarizer-using-web-crawling-and-nlp-python
+
+2.Text Summarization API for Python
+
+http://textsummarization.net/text-summarization-api-for-python
+
+
+
+
+
+
+
+
+
+
+
+Text Summarization in Python: Extractive vs. Abstractive techniques revisited
+
+https://rare-technologies.com/text-summarization-in-python-extractive-vs-abstractive-techniques-revisited/
